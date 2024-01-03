@@ -1,7 +1,7 @@
 # config.py
 DATABASE_CONFIG = {
-    'HOST': '35.184.110.41',
+    'host': '34.134.237.163',
     'user': 'appuser',
-    'password': "QsH>l[9F`I=0gPJ+",
+    'password': "dataopen",
     'database': 'appdb'
 }
